@@ -1,0 +1,22 @@
+/* estilização geral */
+*{
+  margin: 0;
+  border:0;
+  padding:0;
+  box-shadow:border-box;
+}
+
+/* estilização do corpo do código */
+body{
+  border:1px solid red;
+  min-height: 100vh;
+  min-width:100vw;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container{
+  border:1px solid blue;
+  padding:10rem;
+}
