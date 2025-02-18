@@ -8,6 +8,7 @@
 
 /* estilização do corpo do código */
 body{
+  background-color: #393646;
   min-height: 100vh;
   min-width:100vw;
   display:flex;
@@ -27,5 +28,6 @@ body{
 
 section{
   border:1px solid red;
+  background-color:#4F4557;
   height: 90%;
 }
