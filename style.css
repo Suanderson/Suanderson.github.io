@@ -31,3 +31,24 @@ section{
   background-color:#4F4557;
   height: 90%;
 }
+
+.porti{
+  overflow-y: scroll;
+
+}
+
+.info{
+  border: 1px solid blue;
+  height: 33.1%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ft-perfil{
+  border:1px solid white;
+  padding: 70px;
+  border-radius: 50%;
+
+
+}
